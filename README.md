@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/DYNAMIC COUNTRY.png" width="900" alt="Dynamic Country Sales Report"/>
+  <img src="images/DYNAMICCOUNTRY.png" width="900" alt="Dynamic Country Sales Report"/>
 </p>
 
 <h1 align="center">🍫 Chocolate Sales Data Analysis</h1>
@@ -55,11 +55,11 @@ This project presents a comprehensive end-to-end sales analysis of a chocolate m
 
 ### Product Profitability Analysis
 
-![Product Profitability Analysis](images/Profit_by_Product.png)
+![Product Profitability Analysis](images/PROFIT BY PRODUCT.png)
 
 ### Product Discontinuation Analysis
 
-![Product Discontinuation Analysis](images/Product_to_Discontinue.png)
+![Product Discontinuation Analysis](images/DISCONTINUE.png)
 
 ### Sales by Country Analysis
 
@@ -67,7 +67,7 @@ This project presents a comprehensive end-to-end sales analysis of a chocolate m
 
 ### Sales Anomaly Detection
 
-![Sales Anomaly Detection](images/Anomaly_Detection.png)
+![Sales Anomaly Detection](images/ANOMALY DETECTION.png)
 
 ---
 
