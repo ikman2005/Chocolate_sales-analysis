@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/DYNAMIC COUNTRY.png" width="900" alt="Dynamic Country Sales Report"/>
+  <img src="images/dynamic country.png" width="900" alt="Dynamic Country Sales Report"/>
 </p>
 
 <h1 align="center">🍫 Chocolate Sales Data Analysis</h1>
