@@ -47,7 +47,7 @@ This project presents a comprehensive end-to-end sales analysis of a chocolate m
 
 ### Dataset & Problem Statement
 
-![Problem Statement](images/DATA.png)
+![Problem Statement](./images/DATA.png)
 
 ### Dynamic Country-Level Sales Report
 
