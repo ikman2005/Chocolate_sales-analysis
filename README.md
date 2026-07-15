@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/DYNAMICCOUNTRY.png" width="900" alt="Dynamic Country Sales Report"/>
+  <img src="images/DYNAMIC COUNTRY.png" width="900" alt="Dynamic Country Sales Report"/>
 </p>
 
 <h1 align="center">🍫 Chocolate Sales Data Analysis</h1>
@@ -63,7 +63,7 @@ This project presents a comprehensive end-to-end sales analysis of a chocolate m
 
 ### Sales by Country Analysis
 
-![Sales by Country Analysis](images/Sales_by_Country.png)
+![Sales by Country Analysis](images/SALES BY COUNTRY.png)
 
 ### Sales Anomaly Detection
 
